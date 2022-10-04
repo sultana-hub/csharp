@@ -1,2 +1,2 @@
 # csharp
-learning
+learning for beginners.
