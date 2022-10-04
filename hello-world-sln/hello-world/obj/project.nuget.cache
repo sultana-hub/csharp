@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Si3FiwsbmsQZdNLcAZUo7MiAvCgmiGDRxg8JeoTf/Zs1osWr9iyGWbdxFrU7HJrdRBDJUUoBu1KZFY+GIFpFCg==",
+  "success": true,
+  "projectFilePath": "F:\\csharp\\hello-world-sln\\hello-world\\hello-world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sultana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

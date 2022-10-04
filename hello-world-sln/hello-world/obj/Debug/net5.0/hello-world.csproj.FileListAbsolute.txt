@@ -1,0 +1,16 @@
+F:\csharp\hello-world-sln\hello-world\bin\Debug\net5.0\hello-world.exe
+F:\csharp\hello-world-sln\hello-world\bin\Debug\net5.0\hello-world.deps.json
+F:\csharp\hello-world-sln\hello-world\bin\Debug\net5.0\hello-world.runtimeconfig.json
+F:\csharp\hello-world-sln\hello-world\bin\Debug\net5.0\hello-world.runtimeconfig.dev.json
+F:\csharp\hello-world-sln\hello-world\bin\Debug\net5.0\hello-world.dll
+F:\csharp\hello-world-sln\hello-world\bin\Debug\net5.0\hello-world.pdb
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.csproj.AssemblyReference.cache
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.AssemblyInfoInputs.cache
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.AssemblyInfo.cs
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.csproj.CoreCompileInputs.cache
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.dll
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\refint\hello-world.dll
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.pdb
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\hello-world.genruntimeconfig.cache
+F:\csharp\hello-world-sln\hello-world\obj\Debug\net5.0\ref\hello-world.dll
